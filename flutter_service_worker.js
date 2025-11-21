@@ -22,8 +22,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "c231cc61c14bc3451e823ad412136452
 "assets/assets/sl3.webp": "7c55eb78ead398fcba644104f1b6ecf8",
 "assets/assets/sucessful.json": "77803a6057dd4762500fa8ba14782159",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "19837a4181b4d2d07de85adb69a43824",
-"assets/NOTICES": "919bbc6e5b5bd12b6fe84e9f4c191434",
+"assets/fonts/MaterialIcons-Regular.otf": "2dd56b8d1bf64e3a6f98d114f8236fc5",
+"assets/NOTICES": "0586193cf28f98895a7ecf826f966709",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "728b2d477d9b8c14593d4f9b82b484f3",
@@ -37,17 +37,17 @@ const RESOURCES = {"assets/AssetManifest.bin": "c231cc61c14bc3451e823ad412136452
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "bfc96d8b77a6957091f4d07fe6ffff60",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "26cb207fe14b3d9e17ead194cd5e953b",
+"flutter_bootstrap.js": "9f63a42a3c88b8f8e44181549bab4f10",
 "icons/Icon-192.png": "bfc96d8b77a6957091f4d07fe6ffff60",
 "icons/Icon-512.png": "bfc96d8b77a6957091f4d07fe6ffff60",
 "icons/Icon-maskable-192.png": "bfc96d8b77a6957091f4d07fe6ffff60",
 "icons/Icon-maskable-512.png": "bfc96d8b77a6957091f4d07fe6ffff60",
-"index.html": "4ad06c2b209c787058a0a7e52b34cc4c",
-"/": "4ad06c2b209c787058a0a7e52b34cc4c",
+"index.html": "5f7dfb328467fb975e348f43e3d35082",
+"/": "5f7dfb328467fb975e348f43e3d35082",
 "logo.png": "bfc96d8b77a6957091f4d07fe6ffff60",
-"main.dart.js": "6ad72f5e2a2f1f434584de94b8c8b9e0",
+"main.dart.js": "0e8e6e42e76765475919660bbdf70220",
 "manifest.json": "b78937238d91500aa4548c83a2fd587a",
-"version.json": "4d330038f7053547d8a2f5e2d0c45443"};
+"version.json": "196eae5eb2be7b74f8c7ef66e4154861"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
